@@ -44,8 +44,8 @@ jupyter lab # run jupyter lab
 # Results on Validation Set
 
 
-| Model        | RMSE   | MAE    |
-|--------------|--------|--------|
-| Baseline     | 910.86 | 604.54 |
-| SGDRegressor | 511.81 | 330.58 |
-| Xgboost      | 240.39 | 173.95 |
+| Model        | RMSE       | MAE        |
+|--------------|------------|------------|
+| Baseline     | 910.86     | 604.54     |
+| SGDRegressor | 511.81     | 330.58     |
+| Xgboost      | **240.39** | **173.95** |
