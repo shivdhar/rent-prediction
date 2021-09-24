@@ -4,7 +4,7 @@
 # Installation
 
 ```bash
-    make env
+make env
 ```
 
 # Steps:
