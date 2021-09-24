@@ -1,5 +1,6 @@
 .ONESHELL:
 
+.PHONY: data
 data:
 	mkdir -p data/
 	cd data/
