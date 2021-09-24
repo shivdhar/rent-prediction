@@ -8,5 +8,6 @@ data:
 	wget -c https://abz-hyvee-bucket.s3.ap-south-1.amazonaws.com/test.csv
 	wget -c https://abz-hyvee-bucket.s3.ap-south-1.amazonaws.com/sample_submission.csv
 
+.PHONY: env
 env:
 	conda env create -f=environment.yml
